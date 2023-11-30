@@ -1,5 +1,5 @@
 # Mezze maniche alla carbonara
-![Ecco la pasta](https://i.ytimg.com/vi/_7Zgiv08rq4/hqdefault.jpg)
+![Ecco la pasta](download.jpg)
 ## ingredienti
 
  - 400 g di Mezze Maniche Rigate
